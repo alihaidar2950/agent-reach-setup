@@ -133,3 +133,17 @@ A real run: freeCodeCamp's 2:05:22 System Design course came back as 20,861 word
 </div>
 
 By [@alihaidar.dev](https://www.instagram.com/alihaidar.dev/). Not affiliated with Agent Reach or its author.
+
+---
+
+### What next? · شو بعد؟
+
+- ⭐ Star this repo if it helped, so more people find it.
+- Follow [@alihaidar.dev](https://www.instagram.com/alihaidar.dev/) on Instagram or [TikTok](https://www.tiktok.com/@alihaidar.dev) for the next free guide.
+- All my free guides: [github.com/alihaidar2950](https://github.com/alihaidar2950?tab=repositories)
+
+<div dir="rtl">
+
+إذا فادك، حطّ ⭐ عالـrepo، وتابعني عَ [إنستغرام](https://www.instagram.com/alihaidar.dev/) أو [تيك توك](https://www.tiktok.com/@alihaidar.dev) لتوصلك الأداة الجاية ببلاش.
+
+</div>
